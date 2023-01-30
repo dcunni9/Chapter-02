@@ -2,20 +2,14 @@
 
 [![Resume](https://github.com/dguo/make-a-readme/workflows/CI/badge.svg)](https://dcunni9.github.io/)
 
-## Introduction
+## Abstract
 
 TBW
 
 ## Methods
 TBW
 
-## Results
-TBW
-
-## Discussion
-TBW
-
-## Discussion
+## Figures
 TBW
 
 <html>
